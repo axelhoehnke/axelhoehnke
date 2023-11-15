@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @axelhoehnke
-- 👀 I’m interested in voice and mobile services
-- 🌱 I’m currently learning airtable / voiceflow 
-- 💞️ I’m looking to collaborate on voiceapps / skills actions esp. for elder care 
+- 👀 I’m interested in ai & security 
+- 🌱 I’m currently learning on gpt api assistant / custom gpt
+- 💞️ I’m looking to collaborate on deep / dark web monitoring    
 - 📫 How to reach me - email axel@axelhoehnke.com
 
 <!---
