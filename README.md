@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @axelhoehnke
-- 👀 I’m interested in ai & security 
-- 🌱 I’m currently learning on gpt api assistant / custom gpt
-- 💞️ I’m looking to collaborate on deep / dark web monitoring    
+- 👋 Hi, I’m @axelhoehnke - living in Hamburg 
+- 👀 I’m in ai & security focus open, deep / dark web monitoring 
+- 🌱 I’m currently contributing to EU / Cyber Resilience Act - Standardization
+- 💞️ I’m looking for manufactures or operators of products with digital elements
 - 📫 How to reach me - email axel@axelhoehnke.com
 
 <!---
