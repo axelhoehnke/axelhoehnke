@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @axelhoehnke - living in Hamburg 
-- 👀 I’m in ai & security focus open, deep / dark web monitoring 
-- 🌱 I’m currently contributing to EU / Cyber Resilience Act - Standardization
-- 💞️ I’m looking for manufactures or operators of products with digital elements
+- 👀 I’m in ai & security focus open-, social-, deep-, and dark web monitoring. 
+- 🌱 I’m currently contributing to EU / Cyber Resilience Act - Standardization.
+- 💞️ I’m looking for manufactures & operators of products with digital elements.
 - 📫 How to reach me - email axel@axelhoehnke.com
 
 <!---
