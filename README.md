@@ -2,7 +2,7 @@
 - 👀 I’m in ai & security focus open-, social-, deep-, and dark web monitoring. 
 - 🌱 I’m currently contributing to EU / Cyber Resilience Act - Standardization.
 - 💞️ I’m looking for manufactures & operators of products with digital elements.
-- 📫 How to reach me - email axel@axelhoehnke.com
+- 📫 How to reach me - https://www.linkedin.com/in/axelhoehnke
 
 <!---
 axelhoehnke/axelhoehnke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
